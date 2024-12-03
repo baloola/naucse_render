@@ -70,7 +70,7 @@ def solution(ctx, text):
         <div class="solution" id="solution-{}">
             <h3>Řešení</h3>
             <div class="solution-cover">
-                <a href="{}"><span class="link-text">Ukázat řešení</span></a>
+                <a href="{}"><span class="link-text">عرض الحل</span></a>
             </div>
             <div class="solution-body" aria-hidden="true">
                 {}
