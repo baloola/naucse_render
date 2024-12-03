@@ -68,7 +68,7 @@ def solution(ctx, text):
 
     return jinja2.Markup(textwrap.dedent("""
         <div class="solution" id="solution-{}">
-            <h3>Řešení</h3>
+            <h3>الحل</h3>
             <div class="solution-cover">
                 <a href="{}"><span class="link-text">عرض الحل</span></a>
             </div>
